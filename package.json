@@ -1,0 +1,13 @@
+{
+  "name": "rmsm",
+  "version": "1.0.0",
+  "description": "RMSM - Rashtriya Modi Seva Mission - Candidate Registration System",
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "start:server": "npm start --prefix server",
+    "start:client": "npm start --prefix client",
+    "dev:server": "npm run dev --prefix server",
+    "start": "npm run start:server"
+  },
+  "keywords": ["RMSM", "candidate", "registration"]
+}

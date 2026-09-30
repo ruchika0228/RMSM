@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8670b3f.css",
+    "main.js": "/static/js/main.ed6f8655.js",
+    "static/js/213.1697eaa9.chunk.js": "/static/js/213.1697eaa9.chunk.js",
+    "static/js/732.b63fded5.chunk.js": "/static/js/732.b63fded5.chunk.js",
+    "static/media/rmsm-logo.png": "/static/media/rmsm-logo.3a3cffaa8e16d3b17981.png",
+    "index.html": "/index.html",
+    "main.e8670b3f.css.map": "/static/css/main.e8670b3f.css.map",
+    "main.ed6f8655.js.map": "/static/js/main.ed6f8655.js.map",
+    "213.1697eaa9.chunk.js.map": "/static/js/213.1697eaa9.chunk.js.map",
+    "732.b63fded5.chunk.js.map": "/static/js/732.b63fded5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8670b3f.css",
+    "static/js/main.ed6f8655.js"
+  ]
+}
